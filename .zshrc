@@ -7,3 +7,4 @@ source $ZSH/oh-my-zsh.sh
 alias gs="git status"
 alias gd="git diff"
 
+alias a="awk '{ print \$1 }'"
